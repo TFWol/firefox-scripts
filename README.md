@@ -12,17 +12,17 @@
 
 3. Download one of the files below and extract its content in **chrome** folder.
 
- - [utils → I'm only interested in scripts](https://raw.githubusercontent.com/xiaoxiaoflood/firefox-scripts/master/utils_scripts_only.zip)
+ - [utils → I'm only interested in scripts](https://raw.githubusercontent.com/TFWol/firefox-scripts/master/utils_scripts_only.zip)
 
- - [utils → I'm only interested in extensions](https://raw.githubusercontent.com/xiaoxiaoflood/firefox-scripts/master/utils_extensions_only.zip)
+ - [utils → I'm only interested in extensions](https://raw.githubusercontent.com/TFWol/firefox-scripts/master/utils_extensions_only.zip)
  
- - [utils → I'm interested in both scripts and extensions](https://raw.githubusercontent.com/xiaoxiaoflood/firefox-scripts/master/utils.zip)
+ - [utils → I'm interested in both scripts and extensions](https://raw.githubusercontent.com/TFWol/firefox-scripts/master/utils.zip)
 
 *Now, if you're only interested in extensions, you can skip to step 6.*
 
-4. Save the desired [userChromeJS scripts](https://github.com/xiaoxiaoflood/firefox-scripts/tree/master/chrome) into **chrome**. Read below the description of some of them.
+4. Save the desired [userChromeJS scripts](https://github.com/TFWol/firefox-scripts/tree/master/chrome) into **chrome**. Read below the description of some of them.
 
-5. If you want a button to manage your scripts, including the ability to disable/enable scripts without needing to restart¹ Firefox or Thunderbird, save [rebuild_userChrome.uc.js](https://raw.githubusercontent.com/xiaoxiaoflood/firefox-scripts/master/chrome/rebuild_userChrome.uc.js) into **chrome**.
+5. If you want a button to manage your scripts, including the ability to disable/enable scripts without needing to restart¹ Firefox or Thunderbird, save [rebuild_userChrome.uc.js](https://raw.githubusercontent.com/TFWol/firefox-scripts/master/chrome/rebuild_userChrome.uc.js) into **chrome**.
 
 6. Open **about:support** and click "*Clear startup cache…*" to force Firefox to load userChromeJS on the next startup.
 
